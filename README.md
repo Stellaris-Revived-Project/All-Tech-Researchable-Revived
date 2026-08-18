@@ -1,0 +1,50 @@
+# Genocidal Empires Can Join The Galactic Community Revived
+
+> This mod is maintained as part of the **Stellaris Revived Project**, which aims to preserve and keep abandoned community mods compatible with the latest versions of Stellaris.
+
+## About
+
+This repository contains a remade version of **Genocidals Can Join The Galactic Community**. The goal is to fix compatibility issues, resolve bugs and ensure the mod remains available for the community.
+Unless otherwise stated, I do **not** claim ownership of the original work. Full credit belongs to the original creator(s).
+
+---
+
+## Credits
+
+**Original Author:** [Rance Club](https://steamcommunity.com/profiles/76561198115540378)
+
+**Original Mod Page:** [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1489142966)
+
+**Revived Mod Page:** [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3785974159)
+
+**Revived Source Repository:** [GitHub Repository](TBA)
+
+You are free to use, modify, copy, and redistribute this mod, including publishing modified or derivative versions, provided that the mod or its derivatives upholds the Paradox Interactive End-User License Agreement.
+Please retain credit to the original creator and, where applicable, the current maintainer. This permission does not grant any rights to Stellaris, Paradox Interactive's assets, or other third-party content.
+
+---
+
+## Current Maintenance
+
+This repository provides:
+- Compatibility updates for newer Stellaris versions
+- Bug fixes
+- Community-requested improvements (where appropriate)
+
+---
+
+## Reporting Issues
+
+If you encounter a bug or have a suggestion, please open a GitHub Issue or report it in the Discord listed below.
+
+---
+
+## Contact
+
+**Maintained by Gregor Samsa**
+
+- GitHub: https://github.com/Greg-rSamsa
+- Revival Project GitHub: https://github.com/Stellaris-Revived-Project
+- Discord: https://discord.gg/wY2EKWThSZ
+- Steam: https://steamcommunity.com/id/gregor_samsa_II/
+- Email: [maintainer@gregorsamsa.cc](mailto:maintainer@gregorsamsa.cc)
