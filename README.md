@@ -11,7 +11,7 @@ Unless otherwise stated, I do **not** claim ownership of the original work. Full
 
 ## Credits
 
-**Original Author:** [Rance Club](https://steamcommunity.com/profiles/76561198115540378)
+**Original Author:** [Rance Club](https://steamcommunity.com/id/rance_club)
 
 **Original Mod Page:** [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1489142966)
 
