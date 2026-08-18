@@ -1,10 +1,10 @@
-# Genocidal Empires Can Join The Galactic Community Revived
+# All Tech Researchable Revived
 
 > This mod is maintained as part of the **Stellaris Revived Project**, which aims to preserve and keep abandoned community mods compatible with the latest versions of Stellaris.
 
 ## About
 
-This repository contains a remade version of **Genocidals Can Join The Galactic Community**. The goal is to fix compatibility issues, resolve bugs and ensure the mod remains available for the community.
+This repository contains a remade version of **All Tech Researchable**. The goal is to fix compatibility issues, resolve bugs and ensure the mod remains available for the community.
 Unless otherwise stated, I do **not** claim ownership of the original work. Full credit belongs to the original creator(s).
 
 ---
@@ -17,9 +17,10 @@ Unless otherwise stated, I do **not** claim ownership of the original work. Full
 
 **Revived Mod Page:** [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3785974159)
 
-**Revived Source Repository:** [GitHub Repository](TBA)
+**Revived Source Repository:** [GitHub Repository](https://github.com/Stellaris-Revived-Project/All-Tech-Researchable-Revived)
 
 You are free to use, modify, copy, and redistribute this mod, including publishing modified or derivative versions, provided that the mod or its derivatives upholds the Paradox Interactive End-User License Agreement.
+
 Please retain credit to the original creator and, where applicable, the current maintainer. This permission does not grant any rights to Stellaris, Paradox Interactive's assets, or other third-party content.
 
 ---
