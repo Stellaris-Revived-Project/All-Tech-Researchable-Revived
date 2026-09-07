@@ -190,7 +190,7 @@ country_event =
             }
         }
 
-        #
+        # Orbital Trash Dispersal
         if = {
             limit = {
                 ROOT = {
@@ -478,6 +478,122 @@ country_event =
             }
             country_event = {
                 id = all_tech_g.21 days = 40 random = 20
+            }
+        }
+
+        # Xenology
+        if = {
+            limit = {
+                ROOT = {
+                    AND = {
+                        NOR = {
+                            has_technology = tech_alien_life_studies
+                            has_tech_option = tech_alien_life_studies
+                        }
+                        has_technology = tech_adaptive_bureaucracy
+                        has_technology = tech_neural_implants
+                    }
+                }
+            }
+            country_event = {
+                id = all_tech_g.22 days = 100 random = 50
+            }
+        }
+
+        # Psionic Bombers
+        if = {
+            limit = {
+                ROOT = {
+                    AND = {
+                        NOR = {
+                            has_technology = tech_psionic_bombers
+                            has_tech_option = tech_psionic_bombers
+                        }
+                        has_technology = tech_strike_craft_2
+                        has_technology = tech_psionic_theory
+                    }
+                }
+            }
+            country_event = {
+                id = all_tech_g.23 days = 80 random = 20
+            }
+        }
+
+        # Psionic Lightning
+        if = {
+            limit = {
+                ROOT = {
+                    AND = {
+                        NOR = {
+                            has_technology = tech_psionic_lightning
+                            has_tech_option = tech_psionic_lightning
+                        }
+                        has_technology = tech_psionic_theory
+                        has_technology = tech_arc_emitter_1
+                    }
+                }
+            }
+            country_event = {
+                id = all_tech_g.24 days = 240 random = 80
+            }
+        }
+
+        #
+        if = {
+            limit = {
+                ROOT = {
+                    AND = {
+                        NOR = {
+                            has_technology = tech_zro_launcher
+                            has_tech_option = tech_zro_launcher
+                        }
+                        has_technology = tech_torpedoes_3
+                        has_technology = tech_energy_torpedoes_2
+                        has_technology = tech_mine_zro
+                    }
+                }
+            }
+            country_event = {
+                id = all_tech_g.25 days = 180 random = 60
+            }
+        }
+
+        #
+        if = {
+            limit = {
+                ROOT = {
+                    AND = {
+                        NOR = {
+                            has_technology = tech_swarm_strike_craft_1
+                            has_tech_option = tech_swarm_strike_craft_1
+                        }
+                        has_technology = tech_morphogenetic_field_mastery
+                        has_technology = tech_strike_craft_3
+                    }
+                }
+            }
+            country_event = {
+                id = all_tech_g.26 days = 0 random = 0
+            }
+        }
+
+        #
+        if = {
+            limit = {
+                ROOT = {
+                    AND = {
+                        NOR = {
+                            has_technology = tech_materiality_engine
+                            has_tech_option = tech_materiality_engine
+                        }
+                        has_technology = tech_mine_zro
+                        has_technology = tech_physics_3
+                        has_technology = tech_psionic_theory
+                    }
+                }
+            }
+            country_event = {
+                id = all_tech_g.27 days = 0 random = 0
             }
         }
 

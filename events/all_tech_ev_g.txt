@@ -145,3 +145,60 @@ country_event = {
         add_research_option = tech_psionic_theory
     }
 }
+
+# Xenology
+country_event = {
+    id = all_tech_g.22
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_alien_life_studies
+    }
+}
+
+# Psionic Bombers
+country_event = {
+    id = all_tech_g.23
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_psionic_bombers
+    }
+}
+
+# Psionic Lightning
+country_event = {
+    id = all_tech_g.24
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_psionic_lightning
+    }
+}
+
+country_event = {
+    id = all_tech_g.25
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_zro_launcher
+    }
+}
+
+country_event = {
+    id = all_tech_g.26
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_swarm_strike_craft_1
+    }
+}
+
+country_event = {
+    id = all_tech_g.27
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_materiality_engine
+    }
+}
