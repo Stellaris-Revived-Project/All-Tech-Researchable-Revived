@@ -4,5 +4,5 @@ tags={
 	"Balance"
 }
 name="All Tech Researchable Revived"
-supported_version="v4.4.6"
+supported_version="v4.4.*"
 remote_file_id="3785974159"

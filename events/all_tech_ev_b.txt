@@ -1,0 +1,134 @@
+#
+# Blue Researches
+#
+namespace = all_tech_b
+
+# Extradimensional Weaponry
+country_event = {
+    id = all_tech_b.10
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_extradimensional_weapon_1
+    }
+}
+
+# Mining Drone Lasers
+country_event = {
+    id = all_tech_b.11
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_mining_drone_weapon_1
+    }
+}
+
+# Cloud Lightning Conduits
+country_event = {
+    id = all_tech_b.12
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_space_cloud_weapon_1
+    }
+}
+
+# Jump Drive
+country_event = {
+    id = all_tech_b.13
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_jump_drive_1
+    }
+}
+
+# Curator Exploration Lab
+country_event = {
+    id = all_tech_b.14
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_curator_lab
+    }
+}
+
+# Curator Archaeology Lab
+country_event = {
+    id = all_tech_b.15
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_archeology_lab
+    }
+}
+
+# Enigmatic Encoder
+country_event = {
+    id = all_tech_b.16
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_enigmatic_encoder
+    }
+}
+
+# Enigmatic Decoder
+country_event = {
+    id = all_tech_b.17
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_enigmatic_decoder
+    }
+}
+
+# Dark Matter Power
+country_event = {
+    id = all_tech_b.18
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_dark_matter_power_core
+    }
+}
+
+# Dark Matter Deflector
+country_event = {
+    id = all_tech_b.19
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_dark_matter_deflector
+    }
+}
+
+# Gateway Activation
+country_event = {
+    id = all_tech_b.20
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_gateway_activation
+    }
+}
+
+# Gateway Construction
+country_event = {
+    id = all_tech_b.21
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = tech_gateway_construction
+    }
+}
+
+# Null Void Beam
+country_event = {
+    id = all_tech_b.22
+    is_triggered_only = yes
+    hide_window = yes
+    immediate = {
+        add_research_option = null_void_beam
+    }
+}
