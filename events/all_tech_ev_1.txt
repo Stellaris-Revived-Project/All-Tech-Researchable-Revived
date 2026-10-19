@@ -538,7 +538,7 @@ country_event =
             }
         }
 
-        #
+        # Zro Launcher
         if = {
             limit = {
                 ROOT = {
@@ -558,7 +558,7 @@ country_event =
             }
         }
 
-        #
+        # Swarm Spawning Pools
         if = {
             limit = {
                 ROOT = {
@@ -574,26 +574,6 @@ country_event =
             }
             country_event = {
                 id = all_tech_g.26 days = 0 random = 0
-            }
-        }
-
-        #
-        if = {
-            limit = {
-                ROOT = {
-                    AND = {
-                        NOR = {
-                            has_technology = tech_materiality_engine
-                            has_tech_option = tech_materiality_engine
-                        }
-                        has_technology = tech_mine_zro
-                        has_technology = tech_physics_3
-                        has_technology = tech_psionic_theory
-                    }
-                }
-            }
-            country_event = {
-                id = all_tech_g.27 days = 0 random = 0
             }
         }
 

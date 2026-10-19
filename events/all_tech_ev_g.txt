@@ -193,12 +193,3 @@ country_event = {
         add_research_option = tech_swarm_strike_craft_1
     }
 }
-
-country_event = {
-    id = all_tech_g.27
-    is_triggered_only = yes
-    hide_window = yes
-    immediate = {
-        add_research_option = tech_materiality_engine
-    }
-}
